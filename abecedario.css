@@ -1,0 +1,19 @@
+/*Estilo de los botones*/
+input
+   {
+    width: 144.5px;
+    height: 160px;
+    font-size: 100px;
+   }
+
+/*Alineado de la página*/
+body 
+   {
+    text-align: center;
+   }
+
+/*Estilo del Título*/
+H1 {
+	font-size:100px;
+	font-family:'Brush Script MT',Phyllis,'Lucida Handwriting',cursive;
+   }
